@@ -1,0 +1,200 @@
+[08-Jan-2020 17:31:50 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:31:50 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:31:50 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 176
+[08-Jan-2020 17:31:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 177
+[08-Jan-2020 17:31:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 178
+[08-Jan-2020 17:31:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 181
+[08-Jan-2020 17:31:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 188
+[08-Jan-2020 17:34:44 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:34:44 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:34:44 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 176
+[08-Jan-2020 17:34:44 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 177
+[08-Jan-2020 17:34:44 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 178
+[08-Jan-2020 17:34:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 181
+[08-Jan-2020 17:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 188
+[08-Jan-2020 17:34:48 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:34:48 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:34:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 176
+[08-Jan-2020 17:34:48 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 177
+[08-Jan-2020 17:34:48 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 178
+[08-Jan-2020 17:34:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 181
+[08-Jan-2020 17:34:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 188
+[08-Jan-2020 17:34:51 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:34:51 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:34:51 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 176
+[08-Jan-2020 17:34:51 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 177
+[08-Jan-2020 17:34:51 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 178
+[08-Jan-2020 17:34:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 181
+[08-Jan-2020 17:34:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 188
+[08-Jan-2020 17:34:53 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:34:53 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:34:53 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 176
+[08-Jan-2020 17:34:53 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 177
+[08-Jan-2020 17:34:53 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 178
+[08-Jan-2020 17:34:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 181
+[08-Jan-2020 17:34:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 188
+[08-Jan-2020 17:36:14 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:36:14 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:36:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:36:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 17:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 21
+[08-Jan-2020 17:36:58 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:36:58 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:36:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:36:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:36:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 20
+[08-Jan-2020 17:38:15 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:38:15 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:38:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:38:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:38:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 20
+[08-Jan-2020 17:42:18 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:42:18 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:42:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:42:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:42:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/broofiix/system.millenniumhotelgh.com/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 22
+[08-Jan-2020 17:42:53 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:42:53 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:42:53 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:42:53 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:43:55 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:43:55 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:43:55 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:43:55 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:45:14 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:45:14 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:45:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:45:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:45:48 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:45:48 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:45:48 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:45:48 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:52:56 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:52:56 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:52:56 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:52:56 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:53:43 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'broofiix_brooks'@'199.188.206.2' to database 'broofiix_hotel' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 8
+[08-Jan-2020 17:53:43 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 10
+[08-Jan-2020 17:53:43 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:56:19 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 17:56:19 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 17:56:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:56:19 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:56:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:56:19 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:56:25 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 17:56:25 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 17:56:25 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:56:25 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 17:56:25 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 17:56:25 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:03:24 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 18:03:24 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 18:03:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/broofiix/system.millenniumhotelgh.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 18:04:16 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 18:04:16 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 7
+[08-Jan-2020 18:04:16 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 18:04:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 9
+[08-Jan-2020 18:04:16 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:04:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:13:16 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:16 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:19 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:19 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:13:19 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:13:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 18:13:19 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 18:13:22 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:22 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:24 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:24 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:27 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:27 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:13:27 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:13:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 18:13:27 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 18:13:29 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:13:29 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:43:28 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:43:28 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:43:28 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:43:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:43:28 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 18:43:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 11
+[08-Jan-2020 18:43:37 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:43:37 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 3
+[08-Jan-2020 18:48:37 America/New_York] PHP Warning:  include(assets/includes/connect): failed to open stream: No such file or directory in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:48:37 America/New_York] PHP Warning:  include(): Failed opening 'assets/includes/connect' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/broofiix/system.millenniumhotelgh.com/index.php on line 10
+[08-Jan-2020 18:48:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 12
+[08-Jan-2020 18:48:37 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 12
+[08-Jan-2020 18:48:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/index.php on line 13
+[08-Jan-2020 18:48:37 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/broofiix/system.millenniumhotelgh.com/index.php on line 13
+[09-Jan-2020 02:00:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:00:17 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:00:29 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:00:41 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:00:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 219
+[09-Jan-2020 02:00:51 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:00:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 219
+[09-Jan-2020 02:02:17 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:02:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 212
+[09-Jan-2020 02:02:24 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:02:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 212
+[09-Jan-2020 02:02:40 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:04:01 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:04:09 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:04:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 212
+[09-Jan-2020 02:05:26 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:05:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 216
+[09-Jan-2020 02:06:38 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:06:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 216
+[09-Jan-2020 02:06:42 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:06:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 191
+[09-Jan-2020 02:06:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:06:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 191
+[09-Jan-2020 02:07:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:07:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 216
+[09-Jan-2020 02:09:19 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:09:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 216
+[09-Jan-2020 02:12:12 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:12:50 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 186
+[09-Jan-2020 02:16:09 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 187
+[09-Jan-2020 02:16:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 214
+[09-Jan-2020 02:20:51 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 187
+[09-Jan-2020 02:20:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 192
+[09-Jan-2020 02:20:52 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 187
+[09-Jan-2020 02:20:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 192
+[09-Jan-2020 02:21:12 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/index.php on line 187
+[09-Jan-2020 02:21:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/index.php:1) in /home/broofiix/system.millenniumhotelgh.com/index.php on line 215

@@ -1,0 +1,836 @@
+[09-Jan-2020 03:15:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/assets/includes/header.php:9) in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 110
+[09-Jan-2020 03:20:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/assets/includes/header.php:9) in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 110
+[09-Jan-2020 03:20:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/assets/includes/header.php:9) in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 110
+[09-Jan-2020 04:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session_dest() in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php on line 3
+[09-Jan-2020 04:57:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session_dest() in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php on line 3
+[09-Jan-2020 04:57:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session_dest() in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php on line 3
+[09-Jan-2020 04:58:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session_destory() in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php on line 3
+[09-Jan-2020 04:58:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session_destory() in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/logout.php on line 3
+[09-Jan-2020 05:01:41 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 106
+[09-Jan-2020 05:01:50 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 106
+[09-Jan-2020 07:09:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 237
+[09-Jan-2020 07:09:05 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 237
+[09-Jan-2020 07:09:07 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 237
+[09-Jan-2020 07:09:38 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 238
+[09-Jan-2020 07:10:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 239
+[09-Jan-2020 07:10:51 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 239
+[09-Jan-2020 07:11:25 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 239
+[09-Jan-2020 07:11:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 239
+[09-Jan-2020 07:12:06 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 239
+[09-Jan-2020 07:12:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function print_f() in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 07:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function print_f() in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 07:13:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function print_f() in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 07:32:49 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 99
+[09-Jan-2020 07:33:52 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 108
+[09-Jan-2020 07:34:18 America/New_York] PHP Notice:  Undefined variable: query in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 103
+[09-Jan-2020 07:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 103
+[09-Jan-2020 07:34:25 America/New_York] PHP Notice:  Undefined variable: query in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 103
+[09-Jan-2020 07:34:25 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 103
+[09-Jan-2020 07:34:45 America/New_York] PHP Notice:  Undefined variable: id in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 103
+[09-Jan-2020 07:34:45 America/New_York] PHP Notice:  Undefined variable: id in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 105
+[09-Jan-2020 07:35:25 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 99
+[09-Jan-2020 07:35:41 America/New_York] PHP Notice:  Undefined variable: room_name in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 111
+[09-Jan-2020 07:35:54 America/New_York] PHP Notice:  Undefined variable: room_name in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 111
+[09-Jan-2020 07:46:19 America/New_York] PHP Parse error:  syntax error, unexpected 'l' (T_STRING), expecting ',' or ';' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 112
+[09-Jan-2020 08:04:50 America/New_York] PHP Notice:  Undefined index: oldPass in /home/broofiix/system.millenniumhotelgh.com/sites/account.php on line 240
+[09-Jan-2020 09:23:45 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 106
+[09-Jan-2020 09:24:14 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 106
+[09-Jan-2020 09:25:06 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 106
+[09-Jan-2020 09:25:28 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 106
+[09-Jan-2020 09:25:58 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 106
+[09-Jan-2020 09:26:11 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:26:11 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:28:31 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:28:31 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:29:36 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:29:36 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:29:57 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:29:57 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:36:13 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:36:13 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:36:40 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:36:40 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:38:43 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:38:43 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:39:41 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:39:41 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:40:42 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:40:42 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:43:59 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 128
+[09-Jan-2020 09:43:59 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 129
+[09-Jan-2020 09:55:15 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 232
+[09-Jan-2020 09:55:15 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 232
+[09-Jan-2020 10:18:33 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:18:33 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:21:19 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:21:19 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:21:19 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:21:19 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:22:15 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:22:15 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:22:15 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:22:15 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:22:48 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:22:48 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:23:57 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 207
+[09-Jan-2020 10:23:57 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 208
+[09-Jan-2020 10:23:57 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:23:57 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:25:40 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 152
+[09-Jan-2020 10:25:40 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:25:40 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:26:12 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 152
+[09-Jan-2020 10:26:12 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:26:12 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:26:27 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 152
+[09-Jan-2020 10:26:27 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 304
+[09-Jan-2020 10:26:27 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 311
+[09-Jan-2020 10:28:10 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 153
+[09-Jan-2020 10:28:10 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 305
+[09-Jan-2020 10:28:10 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 312
+[09-Jan-2020 10:28:16 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 153
+[09-Jan-2020 10:28:16 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 305
+[09-Jan-2020 10:28:16 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 312
+[09-Jan-2020 10:28:24 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 153
+[09-Jan-2020 10:28:24 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 305
+[09-Jan-2020 10:28:24 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 312
+[09-Jan-2020 10:28:33 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 153
+[09-Jan-2020 10:28:33 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 305
+[09-Jan-2020 10:28:33 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 312
+[09-Jan-2020 10:30:45 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 308
+[09-Jan-2020 10:30:45 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 315
+[09-Jan-2020 10:31:03 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 155
+[09-Jan-2020 10:31:03 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 308
+[09-Jan-2020 10:31:03 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 315
+[09-Jan-2020 10:31:50 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 155
+[09-Jan-2020 10:31:50 America/New_York] PHP Notice:  Undefined index: room_image in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 308
+[09-Jan-2020 10:31:50 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 315
+[09-Jan-2020 10:33:01 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 155
+[09-Jan-2020 10:33:01 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 315
+[09-Jan-2020 10:33:33 America/New_York] PHP Notice:  Undefined variable: udpate in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 155
+[09-Jan-2020 10:33:33 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 315
+[09-Jan-2020 10:34:09 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 317
+[09-Jan-2020 10:35:00 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 317
+[09-Jan-2020 10:35:42 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 319
+[09-Jan-2020 10:36:31 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 319
+[09-Jan-2020 10:36:49 America/New_York] PHP Notice:  Undefined index: room_desc in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 319
+[09-Jan-2020 10:42:28 America/New_York] PHP Notice:  Undefined variable: de in /home/broofiix/system.millenniumhotelgh.com/sites/room-types.php on line 216
+[09-Jan-2020 11:04:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 309
+[09-Jan-2020 11:11:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 309
+[09-Jan-2020 11:21:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 188
+[09-Jan-2020 11:25:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 188
+[09-Jan-2020 11:29:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 188
+[09-Jan-2020 11:29:55 America/New_York] PHP Notice:  Undefined index: room_type in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 104
+[09-Jan-2020 11:29:55 America/New_York] PHP Notice:  Undefined index: no_of_rooms in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 105
+[09-Jan-2020 11:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 107
+[09-Jan-2020 11:30:08 America/New_York] PHP Notice:  Undefined index: room_type in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 104
+[09-Jan-2020 11:30:08 America/New_York] PHP Notice:  Undefined index: no_of_rooms in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 105
+[09-Jan-2020 11:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 107
+[09-Jan-2020 11:31:25 America/New_York] PHP Notice:  Undefined index: room_type in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 105
+[09-Jan-2020 11:31:25 America/New_York] PHP Notice:  Undefined index: no_of_rooms in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 106
+[09-Jan-2020 11:31:25 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 108
+[09-Jan-2020 11:31:29 America/New_York] PHP Notice:  Undefined index: room_type in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 105
+[09-Jan-2020 11:31:29 America/New_York] PHP Notice:  Undefined index: no_of_rooms in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 106
+[09-Jan-2020 11:31:29 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 108
+[09-Jan-2020 11:33:17 America/New_York] PHP Notice:  Undefined index: room_type in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 105
+[09-Jan-2020 11:33:17 America/New_York] PHP Notice:  Undefined index: no_of_rooms in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 106
+[09-Jan-2020 11:33:17 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 108
+[09-Jan-2020 11:33:24 America/New_York] PHP Notice:  Undefined index: room_type in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 105
+[09-Jan-2020 11:33:24 America/New_York] PHP Notice:  Undefined index: no_of_rooms in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 106
+[09-Jan-2020 11:33:24 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 108
+[09-Jan-2020 11:34:23 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 108
+[09-Jan-2020 11:34:31 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 108
+[09-Jan-2020 11:41:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 189
+[09-Jan-2020 11:42:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 189
+[09-Jan-2020 11:42:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 189
+[09-Jan-2020 11:43:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 190
+[09-Jan-2020 11:44:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 191
+[09-Jan-2020 11:46:28 America/New_York] PHP Notice:  Undefined variable: couner in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 122
+[09-Jan-2020 11:51:08 America/New_York] PHP Notice:  Undefined variable: couner in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 123
+[09-Jan-2020 11:53:14 America/New_York] PHP Notice:  Undefined variable: couner in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 123
+[09-Jan-2020 11:54:15 America/New_York] PHP Notice:  Undefined variable: couner in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 124
+[09-Jan-2020 12:39:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 147
+[09-Jan-2020 12:39:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 147
+[09-Jan-2020 12:40:18 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 164
+[09-Jan-2020 12:41:17 America/New_York] PHP Notice:  Undefined index: room_name in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 145
+[09-Jan-2020 12:56:38 America/New_York] PHP Notice:  Undefined variable: room_type_name in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 157
+[09-Jan-2020 13:06:55 America/New_York] PHP Notice:  Undefined index: del in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 141
+[09-Jan-2020 13:13:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 178
+[09-Jan-2020 13:15:10 America/New_York] PHP Notice:  Undefined index: maintainance in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 155
+[09-Jan-2020 15:47:08 America/New_York] PHP Notice:  Undefined index: edit in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 133
+[09-Jan-2020 15:47:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 137
+[09-Jan-2020 15:47:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 137
+[09-Jan-2020 15:52:33 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 292
+[10-Jan-2020 04:58:41 America/New_York] PHP Notice:  Undefined index: action in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 8
+[10-Jan-2020 04:58:41 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 9
+[10-Jan-2020 04:58:41 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 10
+[10-Jan-2020 04:58:41 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 11
+[10-Jan-2020 04:58:41 America/New_York] PHP Notice:  Undefined index: password in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 12
+[10-Jan-2020 04:58:41 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 14
+[12-Jan-2020 13:10:24 America/New_York] PHP Notice:  Undefined index: id in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 8
+[12-Jan-2020 13:10:24 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 9
+[12-Jan-2020 13:10:24 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 10
+[12-Jan-2020 13:10:24 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 11
+[12-Jan-2020 13:10:24 America/New_York] PHP Notice:  Undefined index: password in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 12
+[12-Jan-2020 13:10:24 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 14
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: action in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 7
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: id in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 8
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 9
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 10
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 11
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: password in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 12
+[12-Jan-2020 13:10:50 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 14
+[12-Jan-2020 13:13:42 America/New_York] PHP Notice:  Undefined index: file in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 18
+[12-Jan-2020 13:16:07 America/New_York] PHP Notice:  Undefined index: file in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 18
+[12-Jan-2020 13:17:59 America/New_York] PHP Notice:  Undefined index: file in /home/broofiix/system.millenniumhotelgh.com/sites/manageUser.php on line 18
+[12-Jan-2020 23:21:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::num_rows() in /home/broofiix/system.millenniumhotelgh.com/sites/upload.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/upload.php on line 16
+[13-Jan-2020 00:30:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 7
+[13-Jan-2020 00:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 7
+[13-Jan-2020 00:30:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 13
+[13-Jan-2020 00:30:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 13
+[13-Jan-2020 00:33:07 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/user_mgnt.php on line 807
+[13-Jan-2020 12:01:48 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/account.php on line 230
+[13-Jan-2020 12:36:30 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/account.php on line 230
+[14-Jan-2020 12:51:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/operation-history.php on line 302
+[18-Jan-2020 06:45:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 13
+[18-Jan-2020 06:45:41 America/New_York] PHP Notice:  Undefined index: name in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 10
+[18-Jan-2020 06:45:41 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[18-Jan-2020 06:45:41 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[18-Jan-2020 06:45:41 America/New_York] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 13
+[18-Jan-2020 06:45:41 America/New_York] PHP Notice:  Undefined index: item_id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 14
+[18-Jan-2020 06:48:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 13
+[18-Jan-2020 06:48:09 America/New_York] PHP Notice:  Undefined index: name in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 10
+[18-Jan-2020 06:48:09 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[18-Jan-2020 06:48:09 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[18-Jan-2020 06:48:09 America/New_York] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 13
+[18-Jan-2020 06:48:09 America/New_York] PHP Notice:  Undefined index: item_id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 14
+[18-Jan-2020 06:51:54 America/New_York] PHP Notice:  Undefined index: name in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 9
+[18-Jan-2020 06:51:54 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 10
+[18-Jan-2020 06:51:54 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[18-Jan-2020 06:51:54 America/New_York] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[18-Jan-2020 06:51:54 America/New_York] PHP Notice:  Undefined index: item_id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 13
+[18-Jan-2020 06:57:15 America/New_York] PHP Notice:  Undefined index: name in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 9
+[18-Jan-2020 06:57:15 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 10
+[18-Jan-2020 06:57:15 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[18-Jan-2020 06:57:15 America/New_York] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[18-Jan-2020 06:57:15 America/New_York] PHP Notice:  Undefined index: item_id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 13
+[18-Jan-2020 07:06:31 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[18-Jan-2020 07:06:31 America/New_York] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[18-Jan-2020 07:06:31 America/New_York] PHP Notice:  Undefined index: item_id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 13
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:07:17 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:16:46 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:05 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:18:15 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: act in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 95
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 97
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 98
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 100
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 105
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: act in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 95
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 97
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 98
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 100
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 105
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: act in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 95
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 97
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 98
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 100
+[18-Jan-2020 07:20:55 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 105
+[18-Jan-2020 07:21:27 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:21:27 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:21:27 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:21:27 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:21:27 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:21:27 America/New_York] PHP Warning:  Illegal offset type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 93
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: act in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 95
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 97
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 98
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 100
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 105
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: act in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 95
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 97
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 98
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 100
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 105
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: act in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 95
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 97
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 98
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Undefined index: detail_type in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 100
+[18-Jan-2020 07:21:27 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 105
+[18-Jan-2020 09:21:12 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/broofiix/system.millenniumhotelgh.com/assets/includes/connect.php on line 13
+[18-Jan-2020 09:21:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/broofiix/system.millenniumhotelgh.com/sites/product_history.php:8) in /home/broofiix/system.millenniumhotelgh.com/assets/includes/header.php on line 8
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 580
+[24-Jan-2020 04:20:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 583
+[26-Jan-2020 05:09:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function sprint_f() in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 111
+[26-Jan-2020 05:09:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function sprint_f() in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 111
+[26-Jan-2020 05:10:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function sprint_f() in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 111
+[26-Jan-2020 06:29:21 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 104
+[26-Jan-2020 06:29:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 104
+[26-Jan-2020 06:29:21 America/New_York] PHP Notice:  Undefined variable: user_id in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 110
+[26-Jan-2020 06:29:21 America/New_York] PHP Notice:  Undefined variable: date in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 110
+[26-Jan-2020 06:30:45 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 105
+[26-Jan-2020 06:30:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 105
+[26-Jan-2020 06:30:45 America/New_York] PHP Notice:  Undefined variable: user_id in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 111
+[26-Jan-2020 06:30:45 America/New_York] PHP Notice:  Undefined variable: date in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 111
+[26-Jan-2020 06:40:15 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 110
+[26-Jan-2020 06:40:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 110
+[26-Jan-2020 06:40:53 America/New_York] PHP Notice:  Undefined index: item in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 111
+[26-Jan-2020 08:22:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 251
+[26-Jan-2020 08:22:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 251
+[28-Jan-2020 16:31:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 8
+[28-Jan-2020 16:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php:8
+Stack trace:
+#0 /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php(163): fetch_Drinks()
+#1 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 8
+[28-Jan-2020 16:33:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 490
+[28-Jan-2020 16:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php:490
+Stack trace:
+#0 /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php(133): fetch_Drinks()
+#1 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 490
+[28-Jan-2020 16:34:24 America/New_York] PHP Notice:  Undefined variable: conn in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 490
+[28-Jan-2020 16:34:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php:490
+Stack trace:
+#0 /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php(133): fetch_Drinks()
+#1 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 490
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: name in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 9
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 10
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: item_id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 13
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: drinks in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 14
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: totalQty in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 15
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Notice:  Undefined index: totalCost in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 16
+[29-Jan-2020 11:33:35 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_real_escape_string() in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 17
+[29-Jan-2020 11:34:36 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_real_escape_string() in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 17
+[29-Jan-2020 11:36:55 Africa/Accra] PHP Notice:  Undefined variable: sales_array in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 281
+[29-Jan-2020 11:37:48 Africa/Accra] PHP Notice:  Undefined variable: sales_array in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 281
+[29-Jan-2020 11:38:22 Africa/Accra] PHP Notice:  Undefined variable: sales_array in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 281
+[29-Jan-2020 13:03:03 Africa/Accra] PHP Notice:  Undefined index: start in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 17
+[29-Jan-2020 13:03:03 Africa/Accra] PHP Notice:  Undefined index: end in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 18
+[29-Jan-2020 17:36:27 Africa/Accra] PHP Notice:  Undefined variable: id in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 296
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 10
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 11
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: limit in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 12
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: drinks in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 14
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: totalQty in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 15
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: totalCost in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 16
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: start in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 17
+[29-Jan-2020 17:39:49 Africa/Accra] PHP Notice:  Undefined index: end in /home/broofiix/system.millenniumhotelgh.com/sites/manageProduct.php on line 18
+[30-Jan-2020 03:19:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 251
+[30-Jan-2020 03:31:41 America/New_York] PHP Notice:  Undefined index: fees_type in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 333
+[30-Jan-2020 03:43:13 America/New_York] PHP Notice:  Undefined index: product in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 112
+[30-Jan-2020 03:43:13 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 113
+[30-Jan-2020 03:43:13 America/New_York] PHP Notice:  Undefined index: qty in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 114
+[30-Jan-2020 03:43:13 America/New_York] PHP Notice:  Undefined index: total_price in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 115
+[30-Jan-2020 03:43:24 America/New_York] PHP Notice:  Undefined index: product in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 112
+[30-Jan-2020 03:43:24 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 113
+[30-Jan-2020 03:43:24 America/New_York] PHP Notice:  Undefined index: qty in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 114
+[30-Jan-2020 03:43:24 America/New_York] PHP Notice:  Undefined index: total_price in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 115
+[30-Jan-2020 04:17:07 America/New_York] PHP Notice:  Undefined index: item in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 125
+[30-Jan-2020 04:17:07 America/New_York] PHP Notice:  Undefined index: qty in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 126
+[30-Jan-2020 04:17:07 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 127
+[30-Jan-2020 04:17:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 130
+[30-Jan-2020 04:17:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_qyery() in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 133
+[30-Jan-2020 04:17:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_qyery() in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 133
+[30-Jan-2020 04:20:37 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 129
+[30-Jan-2020 04:21:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_qyery() in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 133
+[30-Jan-2020 04:21:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_qyery() in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 134
+[30-Jan-2020 04:22:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_qyery() in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 134
+[30-Jan-2020 04:36:45 America/New_York] PHP Notice:  Undefined index: total_amount in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 271
+[30-Jan-2020 04:36:45 America/New_York] PHP Notice:  Undefined index: total_amount in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 271
+[30-Jan-2020 04:36:45 America/New_York] PHP Notice:  Undefined index: total_amount in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 271
+[30-Jan-2020 04:36:45 America/New_York] PHP Notice:  Undefined index: total_amount in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 271
+[30-Jan-2020 04:36:45 America/New_York] PHP Notice:  Undefined index: total_amount in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 271
+[30-Jan-2020 04:36:45 America/New_York] PHP Notice:  Undefined index: total_amount in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 271
+[30-Jan-2020 04:58:24 America/New_York] PHP Notice:  Undefined index: fee in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 113
+[30-Jan-2020 05:30:38 America/New_York] PHP Notice:  Undefined index: fees in /home/broofiix/system.millenniumhotelgh.com/sites/pool-fees.php on line 131
+[30-Jan-2020 05:42:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 306
+[30-Jan-2020 09:19:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 258
+[30-Jan-2020 14:15:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 258
+[31-Jan-2020 04:13:35 America/New_York] PHP Warning:  Division by zero in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 169
+[31-Jan-2020 05:35:59 America/New_York] PHP Notice:  Undefined index: fees_type in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 126
+[31-Jan-2020 05:36:43 America/New_York] PHP Notice:  Undefined index: fees_type in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 126
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:27:28 America/New_York] PHP Warning:  Illegal string offset 'fullname' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:28:53 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:29:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:30 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:32:39 America/New_York] PHP Warning:  Illegal string offset 'username' in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 22:56:14 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 248
+[31-Jan-2020 23:00:06 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 248
+[31-Jan-2020 23:02:36 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 248
+[31-Jan-2020 23:04:54 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 248
+[31-Jan-2020 23:05:43 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 248
+[31-Jan-2020 23:12:27 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:17:41 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:20:26 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:22:18 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:23:26 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:31:33 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:32:42 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:34:50 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 247
+[31-Jan-2020 23:36:31 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 235
+[31-Jan-2020 23:36:34 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 235
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 244
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: firstname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 245
+[31-Jan-2020 23:37:35 America/New_York] PHP Notice:  Undefined index: lastname in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 246
+[01-Feb-2020 00:03:26 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:03:26 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:03:26 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:03:26 America/New_York] PHP Notice:  Array to string conversion in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:04:15 America/New_York] PHP Notice:  Undefined offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:04:15 America/New_York] PHP Notice:  Undefined offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:04:15 America/New_York] PHP Notice:  Undefined offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 00:04:15 America/New_York] PHP Notice:  Undefined offset: 0 in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 252
+[01-Feb-2020 01:53:07 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 103
+[01-Feb-2020 01:53:42 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/broofiix/system.millenniumhotelgh.com/assets/includes/sidebar.php on line 103
+[01-Feb-2020 02:00:42 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/account.php on line 230
+[01-Feb-2020 07:07:25 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/account.php on line 230
+[01-Feb-2020 07:20:10 America/New_York] PHP Notice:  Undefined index: qty in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 126
+[01-Feb-2020 07:20:47 America/New_York] PHP Notice:  Undefined variable: qty in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 132
+[01-Feb-2020 07:24:14 America/New_York] PHP Notice:  Undefined variable: qty in /home/broofiix/system.millenniumhotelgh.com/sites/expense.php on line 152
+[01-Feb-2020 08:54:35 America/New_York] PHP Notice:  Undefined index: username in /home/broofiix/system.millenniumhotelgh.com/sites/account.php on line 230
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined index: admin in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 316
+[01-Feb-2020 12:42:36 America/New_York] PHP Notice:  Undefined variable: delete in /home/broofiix/system.millenniumhotelgh.com/sites/all-rooms.php on line 344
+[01-Feb-2020 21:09:03 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 312
+[01-Feb-2020 21:09:48 America/New_York] PHP Notice:  Undefined index: quantity in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 312
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[01-Feb-2020 22:49:03 America/New_York] PHP Notice:  Undefined index: price in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 698
+[02-Feb-2020 09:08:59 America/New_York] PHP Notice:  Undefined variable: drinkname in /home/broofiix/system.millenniumhotelgh.com/sites/newsales.php on line 599
+[07-Feb-2020 10:05:04 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 573
+[07-Feb-2020 10:05:04 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 574
+[07-Feb-2020 12:00:42 America/New_York] PHP Warning:  strtotime() expects parameter 1 to be string, object given in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 582
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:08:03 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:09:05 America/New_York] PHP Notice:  Undefined index: date in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[07-Feb-2020 12:10:24 America/New_York] PHP Notice:  Undefined index: datetime in /home/broofiix/system.millenniumhotelgh.com/sites/bar-dashboard.php on line 741
+[08-Feb-2020 12:12:08 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[08-Feb-2020 12:12:08 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 575
+[08-Feb-2020 12:12:08 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[09-Feb-2020 07:07:54 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[09-Feb-2020 07:07:54 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[09-Feb-2020 07:07:54 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[09-Feb-2020 07:07:54 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[11-Feb-2020 06:33:21 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[11-Feb-2020 06:33:21 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[12-Feb-2020 20:57:48 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[12-Feb-2020 20:57:48 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[17-Feb-2020 12:33:05 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[17-Feb-2020 12:33:05 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[09-Mar-2020 09:57:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 260
+[09-Mar-2020 09:57:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 260
+[04-May-2020 11:00:41 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[04-May-2020 11:00:41 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[13-May-2020 03:45:20 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[13-May-2020 03:45:20 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[02-Jun-2020 14:12:46 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[02-Jun-2020 14:12:46 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[26-Jun-2020 02:53:32 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 381
+[26-Jun-2020 02:53:32 America/New_York] PHP Notice:  Undefined index: role in /home/broofiix/system.millenniumhotelgh.com/sites/products.php on line 576
+[27-Jun-2020 15:51:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/broofiix/system.millenniumhotelgh.com/sites/pool-records.php on line 260
