@@ -13,3 +13,10 @@
   Multi-User Functionality
 
   User Mangement etc.
+
+  Demo Link
+
+  >https://miniworks.io/hms/index
+
+  username: admin
+  password: admin
